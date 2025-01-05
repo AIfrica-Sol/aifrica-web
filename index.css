@@ -1,0 +1,12 @@
+body {
+  margin: 0; /* Removes all default margins from the body */
+  padding: 0; /* Removes padding (optional, for consistency) */
+  box-sizing: border-box; /* Ensures consistent box-sizing across elements */
+  font-family: 'Brownstone', serif;
+}
+
+@font-face {
+  font-family: 'Brownstone';
+  src: local('Brownstone'), url(/font/Brownstone\ Regular\ 400.ttf) format('truetype');
+}
+  
